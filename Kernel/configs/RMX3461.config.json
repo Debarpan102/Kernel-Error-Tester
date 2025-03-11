@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "android_kernel_oplus_RMX3461",
-      "repo": "https://github.com/Debarpan102/kernel_oplus_RMX3461_22x.git",
-      "branch": "next",
+      "repo": "https://github.com/Debarpan102/kernel_oplus_RMX3461.git",
+      "branch": "ice",
       "device": "RMX3461",
       "defconfig": "vendor/lahaina-qgki_defconfig"
     },
@@ -38,7 +38,7 @@
       "use": false,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   }
 ]
