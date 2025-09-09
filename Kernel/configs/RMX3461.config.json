@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "kernel_oneplus_sm8350",
       "repo": "https://github.com/Debarpan102/kernel_oneplus_sm8350.git",
-      "branch": "test",
+      "branch": "sixteen-stg",
       "device": "RMX3461",
       "defconfig": "vendor/lahaina-qgki_defconfig vendor/oplus_yupik_QGKI.config"
     },
